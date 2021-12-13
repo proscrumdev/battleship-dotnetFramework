@@ -5,4 +5,4 @@ The .Net version of the Battleship case study
 
 --- 
 # Hint
-This version is depricated and will no longer be updated. Please use the .NET6 version to get the latest and greatest version: https://github.com/proscrumdev/battleship-dotnet
+This version is deprecated and will no longer be updated. Please use the .NET6 version to get the latest and greatest version: https://github.com/proscrumdev/battleship-dotnet
